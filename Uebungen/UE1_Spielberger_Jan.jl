@@ -8,7 +8,8 @@ Wichtig 2: Bitte nur die Funktionen ausprogrammieren und keine Funktionsaufrufe 
 # Die Bearbeitung der Aufgaben ist in einem Testskript erfolgt, der Code wurde von
 # diesen Testskript kopiert und hier in diesem Skript eingefügt und anschließend
 # wurden die jeweiligen "erwähnenswerten" commits auf Github gepushed. (Deshalb
-# die eher geringen Zeitabstände der commits.). Zudem wurde der Ordner erneut hochgeladen
+# die eher geringen Zeitabstände der commits.) Zudem wurde die Datei neu hochgeladen
+# und die commits im Nachhinein hinzugefügt
 
 ### Beispiel 1:
 
