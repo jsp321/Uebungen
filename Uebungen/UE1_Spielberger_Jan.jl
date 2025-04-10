@@ -9,7 +9,7 @@ Wichtig 2: Bitte nur die Funktionen ausprogrammieren und keine Funktionsaufrufe 
 # diesen Testskript kopiert und hier in diesem Skript eingefügt und anschließend
 # wurden die jeweiligen "erwähnenswerten" commits auf Github gepushed. (Deshalb
 # die eher geringen Zeitabstände der commits.) Zudem wurde die Datei neu hochgeladen
-# und die commits im Nachhinein hinzugefügt.
+# und die commits im Nachhinein hinzugefügt. Die Verweise der commits sind also nicht sinnvoll
 
 ### Beispiel 1:
 
